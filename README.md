@@ -2,7 +2,7 @@
 Power BI dashboard analyzing employee turnover by age, marital status, and employment type, Year...
 # Employee Turnover Dashboard
 
-!https://github.com/estherbello/employee-turnover-dashboard.git
+![https://github.com/estherbello/employee-turnover-dashboard.git](https://github.com/Estherbello-web/HR-Turnover-Dashboard/blob/main/Turnover%20Dashboard.pbix)
 
 ## Overview
 This Power BI dashboard provides insights into employee turnover, breaking down metrics by:
